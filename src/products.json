@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Wireless Mouse",      "price": 4500 },
+  { "id": 2, "name": "Mechanical Keyboard", "price": 21500 },
+  { "id": 3, "name": "HD Webcam",           "price": 11000 },
+  { "id": 4, "name": "USB‑C Hub",           "price": 8500 },
+  { "id": 5, "name": "Noise‑cancel Headset","price": 32750 },
+  { "id": 6, "name": "Portable SSD 1 TB",   "price": 48900 },
+  { "id": 7, "name": "Laptop Stand",        "price": 6500 },
+  { "id": 8, "name": "Smart LED Strip",     "price": 7200 },
+  { "id": 9, "name": "Bluetooth Speaker",   "price": 13400 },
+  { "id": 10,"name": "Qi Charger Pad",      "price": 6200 }
+]
