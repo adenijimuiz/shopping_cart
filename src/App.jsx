@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import useProduct from './hooks/useProduct'
+import useProduct from './hooks/useProducts'
 
 
 
