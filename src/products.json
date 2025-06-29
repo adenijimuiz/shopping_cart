@@ -8,5 +8,15 @@
   { "id": 7, "name": "Laptop Stand",        "price": 6500 },
   { "id": 8, "name": "Smart LED Strip",     "price": 7200 },
   { "id": 9, "name": "Bluetooth Speaker",   "price": 13400 },
-  { "id": 10,"name": "Qi Charger Pad",      "price": 6200 }
+  { "id": 10,"name": "Qi Charger Pad",      "price": 6200 },
+   { "id": 11, "name": "Wireless Earbuds",         "price": 15800 },
+  { "id": 12, "name": "Gaming Mouse Pad",         "price": 4200 },
+  { "id": 13, "name": "Laptop Backpack",          "price": 18900 },
+  { "id": 14, "name": "Ergonomic Office Chair",   "price": 57900 },
+  { "id": 15, "name": "Desk Lamp with USB Port",  "price": 8900 },
+  { "id": 16, "name": "HDMI to VGA Adapter",      "price": 2800 },
+  { "id": 17, "name": "Smartwatch (Fitness Band)","price": 21400 },
+  { "id": 18, "name": "External Webcam Cover",    "price": 1500 },
+  { "id": 19, "name": "USB Desk Fan",             "price": 6200 },
+  { "id": 20, "name": "Cable Organizer Box",      "price": 4500 }
 ]
