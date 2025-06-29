@@ -10,7 +10,7 @@ export default function ProductList() {
 
   return (
     <ul className="grid md:grid-cols-2 gap-4">
-      {products.map(p => (
+      {[...products].reverse().map(p => (
         <li key={p.id} className="border rounded p-4 flex justify-between">
           <div>
             <h3 className="font-semibold">{p.name}</h3>
