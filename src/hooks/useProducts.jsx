@@ -5,7 +5,7 @@ const useProduct = () => {
   const [error, setError] = useState(null);
 
   const fetchProducts = () => {
-    fetch('/src/products.json')
+    fetch('/products.json')
       .then(res => res.json())
       .then(data => setProduct(data))
       .catch(err => setError(err))
