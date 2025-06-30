@@ -15,7 +15,7 @@ function App() {
 
   return (
     <main className='max-w-3xl mx-auto p-6'>
-      <nav className='flex justify-between items-center mb-4'>
+      <nav className='flex justify-between items-center mb-4 border-b border-b-white/55 shadow-lg py-3'>
         <NavLink to={'/'}><Title text1={'Power'} text2={'Labs'}/></NavLink>
 
         <NavLink to={'/cart'} className='relative flex items-center'>
