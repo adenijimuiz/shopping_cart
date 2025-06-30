@@ -9,7 +9,7 @@ export default function ProductList() {
   if (!products.length) return <p>Loading…</p>;
 
   return (
-    <ul className="grid md:grid-cols-2 gap-4">
+    <ul className="grid md:grid-cols-3 gap-4">
       {[...products].reverse().map(p => (
         <li key={p.id} className="border rounded p-4 flex justify-between">
           <div>
@@ -17,7 +17,7 @@ export default function ProductList() {
             <p>₦{p.price.toLocaleString()}</p>
           </div>
           <button
-            className="bg-blue-600 text-white px-3 py-1 rounded"
+            className="bg-blue-600 text-white px-3 py-2 rounded self-center"
             onClick={() => dispatch({type:"ADD", item:p})}
           >
             Add
